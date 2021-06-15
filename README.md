@@ -32,7 +32,7 @@ Connect with me on social media :)
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-pi-topaz-17.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ratko's GitHub Stats" src="https://github-readme-stats-pi-topaz-17.vercel.app/api?username=ratko-sim&show_icons=true&hide_border=true" />
 
 </details>
 
