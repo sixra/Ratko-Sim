@@ -56,14 +56,26 @@ A Junior Full Stack Developer.
   <summary>:zap: GitHub Stats</summary>
   <img align="left" alt="Ratko's GitHub Stats" src="https://github-readme-stats-pi-topaz-17.vercel.app/api?username=ratko-sim&show_icons=true&theme=radical"/>
 </details>
-<details>
-  <summary>:zap: Most Used Tools</summary>
-  <img align="left" alt="Most Used" src="https://github-readme-stats-pi-topaz-17.vercel.app/api/top-langs/?username=ratko-sim&show_icons=true&theme=radical"/>
-  [![Top Langs](https://https://github-readme-stats-pi-topaz-17.vercel.app/api/top-langs/?username=ratko-sim)](https://https://github-readme-stats-pi-topaz-17.vercel.app)
-
-</details>
 
 
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ 80ee6426-c6a3-43e0-a7d0-a0425c31a8ce }}
+          GH_TOKEN: ${{ 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 }}
+<!--END_SECTION:waka-->
 
 
 
