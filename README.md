@@ -51,7 +51,7 @@ A Junior Full Stack Developer.
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&theme=vue-dark)
 
 
 
