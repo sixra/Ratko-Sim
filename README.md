@@ -33,10 +33,3 @@ Connect with me on social media :)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="50" height="60"/>
 <img src="https://simpleicons.org/icons/express.svg" alt="express" width="50" height="60"/>
 
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&hide=shell&theme=radical)](https://github.com/ratko-sim)
-
-[![Ratko's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattupham&theme=radical)](https://github.com/ratko-sim)
