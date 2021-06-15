@@ -10,6 +10,12 @@ Connect with me on social media :)
 ](https://linkedin.com/in/ratkosimidzija)
 
 
+[<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/ig-instagram.svg
+" alt="instagram" width="40" height="40"/>
+](https://www.instagram.com/sira08_/)
+
+
+
 ---
 
 🧰 Languages and Tools
