@@ -59,6 +59,8 @@ A Junior Full Stack Developer.
 <details>
   <summary>:zap: Most Used Tools</summary>
   <img align="left" alt="Most Used" src="https://github-readme-stats-pi-topaz-17.vercel.app/api/top-langs/?username=ratko-sim&show_icons=true&theme=radical"/>
+  [![Top Langs](https://https://github-readme-stats-pi-topaz-17.vercel.app/api/top-langs/?username=ratko-sim)](https://https://github-readme-stats-pi-topaz-17.vercel.app)
+
 </details>
 
 
