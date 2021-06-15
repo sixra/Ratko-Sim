@@ -10,7 +10,7 @@ Connect with me on social media :)
 
 ---
 
-🧰 Toolbox
+🧰 Languages and Tools
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="60"/>
@@ -29,7 +29,12 @@ Connect with me on social media :)
 
 ---
 
-![Ratko's GitHub stats](github-readme-stats-ratko-sim.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-ratko-sim.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
 
 
 ---
