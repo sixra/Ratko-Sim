@@ -57,7 +57,7 @@ A Junior Full Stack Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF  &border_color=5D6D7E&langs_count=5)](https://github.com/ratko-sim/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sira)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sira)(https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ratko-sim&repo=github-readme-stats" />
