@@ -37,6 +37,6 @@ Connect with me on social media :)
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattupham&hide=shell&theme=radical)](https://github.com/ratko-sim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&hide=shell&theme=radical)](https://github.com/ratko-sim)
 
 [![Ratko's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattupham&theme=radical)](https://github.com/ratko-sim)
