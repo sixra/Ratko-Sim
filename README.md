@@ -33,8 +33,6 @@ Connect with me on social media :)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="50" height="60"/>
 <img src="https://simpleicons.org/icons/express.svg" alt="express" width="50" height="60"/>
 
-
-
 ---
 
 ## &#x1f4c8; My GitHub Stats
