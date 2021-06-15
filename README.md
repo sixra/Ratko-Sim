@@ -59,22 +59,7 @@ A Junior Full Stack Developer.
 
 
 <!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ 80ee6426-c6a3-43e0-a7d0-a0425c31a8ce }}
-          GH_TOKEN: ${{ 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 }}
+<figure><embed src="https://wakatime.com/share/@cb480250-856e-4d9e-8977-883c61d4978e/3a4a5895-be62-4b84-ac31-75afc23e188d.svg"></embed></figure>
 <!--END_SECTION:waka-->
 
 
