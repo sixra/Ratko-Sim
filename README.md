@@ -29,15 +29,7 @@ Connect with me on social media :)
 
 ---
 
-#### Wakatime Card Exclusive Options:
+![Ratko's GitHub stats](github-readme-stats-ratko-sim.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-- `hide_title` - _(boolean)_
-- `line_height` - Sets the line-height between text _(number)_
-- `hide_progress` - Hides the progress bar and percentage _(boolean)_
-- `custom_title` - Sets a custom title for the card
-- `layout` - Switch between two available layouts `default` & `compact`
-- `langs_count` - Limit number of languages on the card, defaults to all reported langauges
-- `api_domain` - Set a custom API domain for the card, e.g. to use services like [Hakatime](https://github-readme-stats-ratko-sim.vercel.app/) or [Wakapi](https://github.com/muety/wakapi)
-- `range` – Request a range different from your WakaTime default, e.g. `last_7_days`. See [WakaTime API docs](https://wakatime.com/developers#stats) for list of available options.
 
 ---
