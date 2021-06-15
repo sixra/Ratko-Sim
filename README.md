@@ -16,7 +16,7 @@ A Junior Full Stack Developer.
 
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-][mailto](mailto:ratko.simidzija@icloud.com)
+](mailto:ratko.simidzija@icloud.com)
 ---
 
 📂 Languages and Tools
