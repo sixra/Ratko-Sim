@@ -10,7 +10,8 @@
 
 A Junior Full Stack Developer.
 
-Connect with me on social media [here](https://linkedin.com/in/ratkosimidzija)!
+Connect with me on social media [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+](https://linkedin.com/in/ratkosimidzija)!
 
 ---
 
