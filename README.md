@@ -51,7 +51,7 @@ A Junior Full Stack Developer.
 
 ---
 
-![Ratko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&theme=vue-dark) 
+![Ratko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=5D6D7E&border_color=5D6D7E) 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ratko-sim&repo=github-readme-stats&theme=vue-dark)](https://github.com/ratko-sim/github-readme-stats)
 
