@@ -13,6 +13,10 @@ A Junior Full Stack Developer.
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 ](https://www.instagram.com/sira08_/)
 
+
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+][mailto](mailto:ratko.simidzija@icloud.com)
 ---
 
 📂 Languages and Tools
