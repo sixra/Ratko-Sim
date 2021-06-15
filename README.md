@@ -6,14 +6,14 @@ Welcome to my <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githu
 
 A Junior Full Stack Developer.
 
-💬 Connect with me on social media :)
+💬 Connect with me on social media 🙂
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 ](https://linkedin.com/in/ratkosimidzija)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 ](https://www.instagram.com/sira08_/)
 
-
+📧 Or write me an email 🙃
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 ](mailto:ratko.simidzija@icloud.com)
