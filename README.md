@@ -1,4 +1,7 @@
 ### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ratko Simidzija!
+Welcome to my <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+" alt="github"/> page! 👋
+
 
 ---
 
@@ -10,8 +13,6 @@ A Junior Full Stack Developer.
 ](https://linkedin.com/in/ratkosimidzija)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 ](https://www.instagram.com/sira08_/)
-
-
 
 ---
 
