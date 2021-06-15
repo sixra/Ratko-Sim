@@ -58,9 +58,9 @@ A Junior Full Stack Developer.
 </details>
 
 
-<!--START_SECTION:waka-->
+
 <figure><embed src="https://wakatime.com/share/@cb480250-856e-4d9e-8977-883c61d4978e/3a4a5895-be62-4b84-ac31-75afc23e188d.svg"></embed></figure>
-<!--END_SECTION:waka-->
+
 
 
 
