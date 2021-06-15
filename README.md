@@ -5,6 +5,7 @@
 A Junior Full Stack Developer.
 
 Connect with me on social media :)
+
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="JavaScript" width="50" height="50"/>
 ](https://linkedin.com/in/ratkosimidzija)!
 
