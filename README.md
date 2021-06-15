@@ -6,11 +6,11 @@ A Junior Full Stack Developer.
 
 Connect with me on social media :)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+[<img src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin" width="40" height="40"/>
 ](https://linkedin.com/in/ratkosimidzija)
 
 
-[<img src="https://www.flaticon.com/free-icon/instagram_2111463?term=instagram&page=1&position=4&page=1&position=4&related_id=2111463&origin=search#" alt="instagram" width="40" height="40"/>
+[<img src="https://simpleicons.org/icons/instagram.svg" alt="instagram" width="40" height="40"/>
 ](https://www.instagram.com/sira08_/)
 
 
