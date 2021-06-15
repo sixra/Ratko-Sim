@@ -13,7 +13,7 @@ A Junior Full Stack Developer.
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 ](https://www.instagram.com/sira08_/)
 
-📧 you can also contact me by sending an email 🙃
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) 🙃
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 ](mailto:ratko.simidzija@icloud.com)
