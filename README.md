@@ -49,20 +49,9 @@ A Junior Full Stack Developer.
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="linkedin"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="linkedin"/>
 
-
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Ratko's GitHub Stats" src="https://github-readme-stats-pi-topaz-17.vercel.app/api?username=ratko-sim&show_icons=true&theme=radical"/>
-</details>
-
----
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratko-sim)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratko-sim&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true)
 
 
 
