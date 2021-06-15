@@ -8,8 +8,6 @@ Connect with me on social media :)
 
 [<img src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin" width="40" height="40"/>
 ](https://linkedin.com/in/ratkosimidzija)
-
-
 [<img src="https://simpleicons.org/icons/instagram.svg" alt="instagram" width="40" height="40"/>
 ](https://www.instagram.com/sira08_/)
 
