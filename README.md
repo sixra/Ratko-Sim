@@ -1,5 +1,5 @@
 ### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ratko Simidzija!
-Welcome to my <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20" alt="github"/> page! 👋
+Welcome to my <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="60" alt="github"/> page! 👋
 
 
 ---
