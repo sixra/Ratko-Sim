@@ -57,9 +57,9 @@ A Junior Full Stack Developer.
   <img align="left" alt="Ratko's GitHub Stats" src="https://github-readme-stats-pi-topaz-17.vercel.app/api?username=ratko-sim&show_icons=true&theme=radical"/>
 </details>
 
+---
 
-
-<figure><embed src="https://wakatime.com/share/@cb480250-856e-4d9e-8977-883c61d4978e/3a4a5895-be62-4b84-ac31-75afc23e188d.svg"></embed></figure>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratko-sim)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
