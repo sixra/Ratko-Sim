@@ -62,8 +62,8 @@ A Junior Full Stack Developer.
 <a href="https://github.com/ratko-sim/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ratko-sim&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/ratko-sim/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ratko-sim&repo=convoychat" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=sira" />
 </a>
 
 
