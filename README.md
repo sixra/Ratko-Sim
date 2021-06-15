@@ -6,7 +6,7 @@ A Junior Full Stack Developer.
 
 Connect with me on social media :)
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="80" height="40"/>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 ](https://linkedin.com/in/ratkosimidzija)
 [<img src="https://simpleicons.org/icons/instagram.svg" alt="instagram" width="40" height="40"/>
 ](https://www.instagram.com/sira08_/)
