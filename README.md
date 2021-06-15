@@ -1,6 +1,6 @@
 ### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-Welcome to my <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" line_height=50 width="30px"> page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Welcome to my <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" lineheight=50 width="30px"> page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm Ratko Simidzija!
 
