@@ -6,8 +6,9 @@ A Junior Full Stack Developer.
 
 Connect with me on social media :)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="JavaScript" width="50" height="50"/>
-](https://linkedin.com/in/ratkosimidzija)!
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+](https://linkedin.com/in/ratkosimidzija)
+
 
 ---
 
@@ -27,6 +28,10 @@ Connect with me on social media :)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="50"/>
 <img src="https://simpleicons.org/icons/express.svg" alt="express" width="40" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="50"/>
+
+
+
 
 ---
 
