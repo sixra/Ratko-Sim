@@ -59,11 +59,11 @@ A Junior Full Stack Developer.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sira)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&layout=compact&theme=vue-dark&langs_count=5" />
+<a href="https://github.com/ratko-sim/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ratko-sim&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sira)](https://github.com/anuraghazra/github-readme-stats" />
+<a href="https://github.com/ratko-sim/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ratko-sim&repo=convoychat" />
 </a>
 
 
