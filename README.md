@@ -52,7 +52,7 @@ A Junior Full Stack Developer.
 ---
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
+  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
 </a>
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
@@ -60,7 +60,7 @@ A Junior Full Stack Developer.
 </a>  
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
-  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sira&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000" />
+  <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sira&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000" />
 </a>
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
