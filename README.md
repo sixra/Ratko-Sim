@@ -57,6 +57,7 @@ A Junior Full Stack Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&layout=compact&theme=vue-dark&langs_count=5)](https://github.com/ratko-sim/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sira)](https://github.com/ratko-sim/github-readme-stats)
 
 
 
