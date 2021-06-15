@@ -63,7 +63,7 @@ A Junior Full Stack Developer.
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ratko-sim&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=sira&bg_color=66000000&text_color=3A6AFF&title_color=3A6AFF" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=sira&bg_color=66000000&text_color=19FFC7&title_color=19FFC7" />
 </a>
 
 
