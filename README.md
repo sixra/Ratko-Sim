@@ -53,7 +53,7 @@ Welcome to my <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githu
 </a>
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
-  <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=10" />
+  <img card_width=450 align="center" src="" />
 </a> 
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
