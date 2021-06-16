@@ -17,7 +17,7 @@ Welcome to my <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githu
 
 📧 **Contact me via email by clicking on the badge below** 🙃
 
-[<img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" alt="gmail"/>](mailto:ratko.simidzija@icloud.com)
+[<img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" width="100" alt="gmail"/>](mailto:ratko.simidzija@icloud.com)
 ---
 
 🧰 Toolbox
