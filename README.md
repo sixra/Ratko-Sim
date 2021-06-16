@@ -28,7 +28,7 @@
 </div>
 <hr/>
 
-<div>🧰 Toolbox</div>
+<div align="center">🧰 Toolbox</div>
 <br/>
 
 
