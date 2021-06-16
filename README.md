@@ -8,7 +8,7 @@
 
 
 
-<p align="center">💬 **Connect with me on social media** 🙂</p>
+<p align="center">💬 **Ways to contact me** 🙂</p>
 
 <div align="center"> 
 <a href="https://linkedin.com/in/ratkosimidzija">
@@ -22,18 +22,20 @@
 </a> 
 </div>
 <br/>
-<p align="center">📧 **Contact me via email by clicking on the badge below** 🙃</p>
 
 <div align="center"> 
 <a href="mailto:ratko.simidzija@icloud.com">
-  <img align="center" src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
+</a>  &nbsp;
+<a href="https://t.me/sira_08">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>  
 </div>
 
 
 🧰 Toolbox
 ---
-
+<div align="center" >
 <a href="https://github.com/ratko-sim/github-readme-stats">
   <img width=180 align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
 </a> 
@@ -59,7 +61,8 @@
 <img src="https://img.shields.io/badge/Safari-FF1B2D?style=flat-square&logo=Safari&logoColor=white" alt="safari"/> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white" alt="firefox"/> 
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" alt="chrome"/>
 <img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white" alt="edge"/>
-
+</div>
+  
 ---
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
