@@ -1,14 +1,14 @@
 <p align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </p>
-<p align="center">Welcome to my <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=appveyor&logo=github&logoColor=white"  alt="github"/> page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
+<p align="center">Welcome to my <img width=50 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  alt="github"/> page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 <p align="center"><i>👨‍💻 I'm Ratko Simidzija! 🙋‍♂️</i></p>
-<p align="center"><i>Junior Full Stack Developer currently based in Hamburg, Germany.</i></p>
+<p align="center"><i>Junior Full Stack Web Developer currently based in Hamburg, Germany.</i></p>
 
 ---
-<p align="center">💬 Ways to contact me 🙂</p>
+<p align="center">👇 Ways to contact me 👇</p>
 
 <div align="center"> 
-<a href="https://linkedin.com/in/ratkosimidzija" target="_blank">
-  <img align="center" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/ratkosimidzija">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
 <a href="#">
   <img align="center" width="100" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
