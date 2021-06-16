@@ -59,8 +59,6 @@ Junior Full Stack Developer 👨‍💻
 ```
 <!--END_SECTION:waka-->
 
-[![Ratko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sira)](https://github.com/ratko-sim/github-readme-stats)
-
 ---
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
