@@ -71,3 +71,5 @@ Junior Full Stack Developer 👨‍💻
 
 ---
 
+[![ratko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sira)](https://github.com/ratko-sim/github-readme-stats)
+
