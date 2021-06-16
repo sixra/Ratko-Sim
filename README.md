@@ -55,10 +55,10 @@ Junior Full Stack Developer 👨‍💻
 
 <!--START_SECTION:waka-->
 ```text
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sira)](https://github.com/ratko-sim/github-readme-stats)
 
 ```
 <!--END_SECTION:waka-->
+[![Ratko's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sira)](https://github.com/ratko-sim/github-readme-stats)
 
 ---
 
