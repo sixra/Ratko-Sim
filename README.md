@@ -62,7 +62,8 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="redux"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="react-router"/>
 
-<img src="https://img.shields.io/badge/Safari-FF1B2D?style=flat-square&logo=Safari&logoColor=white" alt="safari"/> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white" alt="firefox"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" alt="chrome"/>
+<img src="https://img.shields.io/badge/Safari-FF1B2D?style=flat-square&logo=Safari&logoColor=white" alt="safari"/> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white" alt="firefox"/>
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" alt="chrome"/>
   
 </div>
 </div>
