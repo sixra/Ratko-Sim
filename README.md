@@ -7,12 +7,16 @@
 <p align="center"><i>Junior Full Stack Developer currently based in Hamburg, Germany.</i></p>
 
 
+
 <p align="center">💬 **Connect with me on social media** 🙂</p>
 
 <div align="center"> 
 <a href="https://linkedin.com/in/ratkosimidzija">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
+<a href="https://linkedin.com/in/ratkosimidzija">
+  <img align="center" width="100" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
+</a> 
 <a href="https://www.instagram.com/sira08_/">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> 
@@ -29,6 +33,10 @@
 
 🧰 Toolbox
 ---
+
+<a href="https://github.com/ratko-sim/github-readme-stats">
+  <img width=180 align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+</a> 
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="vscode"/> <img src="https://img.shields.io/badge/Apple-Mac%20Mini%20M1-lightgrey?style=flat-square&logo=apple" alt="apple"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux"/>
@@ -70,3 +78,7 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+
+
+
