@@ -17,7 +17,7 @@ Junior Full Stack Developer 👨‍💻
 
 📧 contact me via email by clicking on the badge below 🙃
 
-[<img src="https://icons8.com/icon/7rhqrO588QcU/apple-mail" alt="gmail"/>
+[<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 ](mailto:ratko.simidzija@icloud.com)
 
 ---
