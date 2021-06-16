@@ -8,7 +8,7 @@
 
 
 
-<p align="center">💬 **Ways to contact me** 🙂</p>
+<p align="center">💬 Ways to contact me 🙂</p>
 
 <div align="center"> 
 <a href="https://linkedin.com/in/ratkosimidzija">
