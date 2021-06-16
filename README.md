@@ -6,20 +6,26 @@
 
 <p align="center"><i>Junior Full Stack Developer currently based in Hamburg, Germany.</i></p>
 
----
 
-💬 **Connect with me on social media** 🙂
+<p align="center">💬 **Connect with me on social media** 🙂</p>
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-](https://linkedin.com/in/ratkosimidzija)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-](https://www.instagram.com/sira08_/)
+<div align="center"> 
+<a href="https://linkedin.com/in/ratkosimidzija">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+<a href="https://www.instagram.com/sira08_/">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a> 
+</div>
+<br/>
+<p align="center">📧 **Contact me via email by clicking on the badge below** 🙃</p>
 
-📧 **Contact me via email by clicking on the badge below** 🙃
+<div align="center"> 
+<a href="mailto:ratko.simidzija@icloud.com">
+  <img align="center" src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
+</a>  
+</div>
 
-[<img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" width="100" alt="gmail"/>](mailto:ratko.simidzija@icloud.com)
-
----
 
 🧰 Toolbox
 ---
