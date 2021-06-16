@@ -1,10 +1,10 @@
-### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<p align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </p>
 
-Welcome to my <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"> page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">Welcome to my <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=appveyor&logo=github&logoColor=white"  alt="github"/> page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
-🙋‍♂️ *I'm Ratko Simidzija!*
+<p align="center"><i>👨‍💻 I'm Ratko Simidzija! 🙋‍♂️</i></p>
 
-👨‍💻 *Junior Full Stack Developer currently based in Hamburg, Germany.*
+<p align="center"><i>Junior Full Stack Developer currently based in Hamburg, Germany.</i></p>
 
 ---
 
