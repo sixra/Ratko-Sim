@@ -2,24 +2,22 @@
 
 Welcome to my <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"> page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Ratko Simidzija!
+🙋‍♂️ *I'm Ratko Simidzija!*
 
-Junior Full Stack Developer 👨‍💻
+👨‍💻 *Junior Full Stack Developer currently based in Hamburg, Germany.*
 
 ---
 
-💬 Connect with me on social media 🙂
+💬 **Connect with me on social media** 🙂
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 ](https://linkedin.com/in/ratkosimidzija)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 ](https://www.instagram.com/sira08_/)
 
-📧 contact me via email by clicking on the badge below 🙃
+📧 **Contact me via email by clicking on the badge below** 🙃
 
-[<img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" alt="gmail"/>
-](mailto:ratko.simidzija@icloud.com)
-
+[<img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" alt="gmail"/>](mailto:ratko.simidzija@icloud.com)
 ---
 
 🧰 Toolbox
