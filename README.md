@@ -32,16 +32,22 @@
 </a>  
 </div>
 
+<hr/>
+<div align="center">🧰 Toolbox</div>
+<br/>
 
-🧰 Toolbox
----
-<div align="center" >
 <a href="https://github.com/ratko-sim/github-readme-stats">
-  <img width=180 align="right" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
+  <img align="left" width=180 align="left" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
+</a>  
+
+<a href="https://github.com/ratko-sim/github-readme-stats">
+  <img align="right" width=180 src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
 </a> 
 
+<div align="center">
+  
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" alt="vscode"/> <img src="https://img.shields.io/badge/Apple-Mac%20Mini%20M1-lightgrey?style=flat-square&logo=apple" alt="apple"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux"/> 
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="github"/>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="netlify"/>
@@ -60,11 +66,12 @@
 
 <img src="https://img.shields.io/badge/Safari-FF1B2D?style=flat-square&logo=Safari&logoColor=white" alt="safari"/> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white" alt="firefox"/> 
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" alt="chrome"/>
-<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white" alt="edge"/>
+<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white" alt="edge"/> 
+</div>
 </div>
   
 ---
-
+<div align="center">
 <a href="https://github.com/ratko-sim/github-readme-stats">
   <img width=450 align="center" src="https://github-readme-stats-ratko-sim.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
 </a>
@@ -72,11 +79,7 @@
 <a href="https://github.com/ratko-sim/github-readme-stats">
   <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=10" />
 </a> 
-
-<a href="https://github.com/ratko-sim/github-readme-stats">
-  <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sira&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000" />
-</a> 
-
+</div>
 ---
 
 <!--START_SECTION:waka-->
