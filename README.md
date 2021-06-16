@@ -62,7 +62,7 @@ Junior Full Stack Developer 👨‍💻
 ---
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
-  <img width=400 align="center" src="https://github-readme-stats-ratko-sim.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
+  <img width=400 align="left" src="https://github-readme-stats-ratko-sim.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
 </a>
 
 <a href="https://github.com/ratko-sim/github-readme-stats">
