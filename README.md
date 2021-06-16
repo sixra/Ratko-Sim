@@ -1,13 +1,9 @@
 <p align="center"> Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </p>
-
 <p align="center">Welcome to my <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=appveyor&logo=github&logoColor=white"  alt="github"/> page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
-
 <p align="center"><i>👨‍💻 I'm Ratko Simidzija! 🙋‍♂️</i></p>
-
 <p align="center"><i>Junior Full Stack Developer currently based in Hamburg, Germany.</i></p>
 
-
-
+---
 <p align="center">💬 Ways to contact me 🙂</p>
 
 <div align="center"> 
@@ -22,7 +18,6 @@
 </a> 
 </div>
 <br/>
-
 <div align="center"> 
 <a href="mailto:ratko.simidzija@icloud.com">
   <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
@@ -31,11 +26,9 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>  
 </div>
-
 <hr/>
 <div align="center">🧰 Toolbox</div>
 <br/>
-
 <a href="https://github.com/ratko-sim/github-readme-stats">
   <img align="left" width=180 align="left" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
 </a>  
@@ -80,11 +73,3 @@
   <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=10" />
 </a> 
 </div>
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
-
