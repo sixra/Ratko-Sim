@@ -4,8 +4,6 @@
 <p align="center"><i>Junior Full Stack Web Developer based in Hamburg, Germany.</i></p>
 <p align="center"><i>📚 Currently learning everything 😆</i></p>
 
-<div align="center"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRatko-Sim&count_bg=%23474747&title_bg=%23989898&icon=github.svg&icon_color=%23FFFFFF&title=Page+Visits&edge_flat=false"/></div>
-
 ---
 <p align="center">👇 Ways to contact me 👇</p>
 
