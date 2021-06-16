@@ -27,15 +27,20 @@
 </a>  
 </div>
 <hr/>
-<div align="center">🧰 Toolbox</div>
-<br/>
-<a href="https://github.com/ratko-sim/github-readme-stats">
-  <img align="left" width=180 align="left" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
-</a>  
 
+<div>🧰 Toolbox</div>
+<br/>
+
+<div align="left">
+<a href="https://github.com/ratko-sim/github-readme-stats">
+  <img align="left" width=200 align="left" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
+</a>  
+</div>
+<div align="right">
 <a href="https://github.com/ratko-sim/github-readme-stats">
   <img align="right" width=180 src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
 </a> 
+</div>
 
 <div align="center">
   
@@ -57,9 +62,8 @@
 <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" alt="redux"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" alt="react-router"/>
 
-<img src="https://img.shields.io/badge/Safari-FF1B2D?style=flat-square&logo=Safari&logoColor=white" alt="safari"/> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white" alt="firefox"/> 
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" alt="chrome"/>
-<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white" alt="edge"/> 
+<img src="https://img.shields.io/badge/Safari-FF1B2D?style=flat-square&logo=Safari&logoColor=white" alt="safari"/> <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white" alt="firefox"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white" alt="chrome"/>
+  
 </div>
 </div>
   
