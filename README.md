@@ -47,7 +47,7 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="vscode"/> <img src="https://img.shields.io/badge/Apple-Mac%20Mini%20M1-lightgrey?style=flat&logo=apple" alt="apple"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="vscode"/> <img src="https://img.shields.io/badge/Mac%20Mini%20M1-lightgrey?style=flat&logo=apple" alt="apple"/>
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white" alt="fedora"/> 
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git"/> <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="github"/>
