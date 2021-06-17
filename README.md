@@ -20,12 +20,16 @@
 </div>
 <br/>
 <div align="center"> 
+<a href="https://twitter.com/sira_008">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>  &nbsp;
 <a href="mailto:ratko.simidzija@icloud.com">
   <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>  &nbsp;
 <a href="https://t.me/sira_08">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>  
+
 </div>
 <hr/>
 
