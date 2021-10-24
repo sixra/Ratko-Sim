@@ -47,19 +47,19 @@
 
 <div align="center">
   
-<img src="https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code" alt="vscode"/> <img src="https://img.shields.io/badge/Mac%20Mini%20M1-333333?style=flat&logo=apple" alt="apple"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code&logoColor=0078d7" alt="vscode"/> <img src="https://img.shields.io/badge/Mac%20Mini%20M1-333333?style=flat&logo=apple" alt="apple"/>
 
 <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" alt="git"/> <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github" alt="github"/>
 <img src="https://img.shields.io/badge/npm-333333?style=flat&logo=npm" alt="npm"/> 
 <img src="https://img.shields.io/badge/Yarn-333333?style=flat&logo=yarn" alt="yarn"/>
 
 <img src="https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown" alt="markdown"/> <img src="https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5" alt="html"/> 
-<img src="https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3" alt="css"/>
+<img src="https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=2965f1" alt="css"/>
 <img src="https://img.shields.io/badge/Sass-333333?style=flat&logo=sass" alt="sass"/>
 <img src="https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap" alt="bootstrap"/>
 
 <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript" alt="javascript"/> <img src="https://img.shields.io/badge/React-333333?style=flat&logo=react" alt="react"/>
-<img src="https://img.shields.io/badge/Redux-333333?style=flat&logo=redux" alt="redux"/>
+<img src="https://img.shields.io/badge/Redux-333333?style=flat&logo=redux&logoColor=764abc" alt="redux"/>
 <img src="https://img.shields.io/badge/React_Router-333333?style=flat&logo=react-router" alt="react-router"/>
   
 <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="nodejs"/> 
