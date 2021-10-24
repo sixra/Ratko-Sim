@@ -20,7 +20,7 @@
 </div>
 <br/>
 <div align="center"> 
-<a href="https://twitter.com/ratko__s" target="_blank">
+<a href="https://twitter.com/sira_008" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>  &nbsp;
 <a href="mailto:ratko.simidzija@icloud.com" target="_blank">
