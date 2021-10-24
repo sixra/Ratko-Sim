@@ -38,7 +38,7 @@
 
 
 <a href="#">
-  <img align="left" width=250 height=188 align="left" src="https://github.com/awartanian/awartanian/raw/main/MERN-pic.png" />
+  <img align="left" width=250  height=188  align="left" src="https://github.com/awartanian/awartanian/raw/main/MERN-pic.png" />
 </a>  
 
 <a href="#">
