@@ -1,7 +1,7 @@
 <p align="center"> Hey  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </p>
 <p align="center">Welcome to my <img width=50 src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"  alt="github"/> page!</p>
 <p align="center"><i>👨‍💻 I'm Ratko Simidzija! 🙋‍♂️</i></p>
-<p align="center"><i>Junior Full Stack Web Developer based in Hamburg, Germany.</i></p>
+<p align="center"><i>Full Stack Web Developer based in Hamburg, Germany.</i></p>
 <p align="center"><i>📚 Currently learning everything 😆</i></p>
 
 ---
