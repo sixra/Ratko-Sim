@@ -33,41 +33,6 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
 </a>  
 </div>
 <hr/>
-<div align="center">🧰 Toolbox</div>
-<br/>
-
-<a href="#">
-  <img align="left" width=200  height=178  align="left" src="https://github.com/awartanian/awartanian/raw/main/MERN-pic.png" />
-</a>  
-
-<a href="#">
-  <img align="right" width=200 height=178 src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
-</a> 
-
-<div align="center">
-  
-<img src="https://img.shields.io/badge/Visual_Studio_Code-333333?style=flat&logo=visual%20studio%20code&logoColor=0078d7" alt="vscode"/> <img src="https://img.shields.io/badge/Mac%20Mini%20M1-333333?style=flat&logo=apple" alt="apple"/>
-
-<img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" alt="git"/> <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github" alt="github"/>
-<img src="https://img.shields.io/badge/npm-333333?style=flat&logo=npm" alt="npm"/> 
-<img src="https://img.shields.io/badge/Yarn-333333?style=flat&logo=yarn" alt="yarn"/>
-
-<img src="https://img.shields.io/badge/Markdown-333333?style=flat&logo=markdown" alt="markdown"/> <img src="https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5" alt="html"/> 
-<img src="https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=2965f1" alt="css"/>
-<img src="https://img.shields.io/badge/Sass-333333?style=flat&logo=sass" alt="sass"/>
-<img src="https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap" alt="bootstrap"/>
-
-<img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript" alt="javascript"/> <img src="https://img.shields.io/badge/React-333333?style=flat&logo=react" alt="react"/>
-<img src="https://img.shields.io/badge/Redux-333333?style=flat&logo=redux&logoColor=764abc" alt="redux"/>
-<img src="https://img.shields.io/badge/React_Router-333333?style=flat&logo=react-router" alt="react-router"/>
-  
-<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="nodejs"/> 
-<img src="https://img.shields.io/badge/-express.js-333333?style=flat&logo=express" alt="expressjs"/>
-<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB"/>
-
-
-</div>
-</div>
   
 <div align="center">
 <a href="https://github.com/ratko-sim/github-readme-stats">
