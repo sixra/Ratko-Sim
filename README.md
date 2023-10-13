@@ -11,7 +11,6 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
 <p align="center">
   I thrive in collaborative environments, leveraging adaptability, analytical skills, and problem-solving abilities to achieve ambitious goals. Actively seeking new opportunities to further develop skills and contribute to impactful projects.
 </p>
----
 <p align="center">👇 Ways to contact me 👇</p>
 
 <div align="center"> 
@@ -30,10 +29,8 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
 <a href="https://t.me/ratko_s" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>  
-
 </div>
 <hr/>
-
 <div align="center">🧰 Toolbox</div>
 <br/>
 
