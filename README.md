@@ -12,7 +12,12 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
   I thrive in collaborative environments, leveraging adaptability, analytical skills, and problem-solving abilities to achieve ambitious goals. Actively seeking new opportunities to further develop skills and contribute to impactful projects.
 </p>
 <p align="center">👇 Ways to contact me 👇</p>
-
+<div align="center">  
+<a href="https://linkedin.com/in/ratkosimidzija" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> &nbsp;
+</div>
+<br/>
 <div align="center">  
 <a href="#">
   <img align="center" width="100" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
@@ -20,9 +25,6 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
 </div>
 <br/>
 <div align="center"> 
-<a href="https://linkedin.com/in/ratkosimidzija" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
 <a href="mailto:simidzija.r@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>  &nbsp;
