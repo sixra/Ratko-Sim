@@ -13,16 +13,16 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
 </p>
 <p align="center">👇 Ways to contact me 👇</p>
 
-<div align="center"> 
-<a href="https://linkedin.com/in/ratkosimidzija" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>  
+<div align="center">  
 <a href="#">
   <img align="center" width="100" src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 </a> 
 </div>
 <br/>
 <div align="center"> 
+<a href="https://linkedin.com/in/ratkosimidzija" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
 <a href="mailto:simidzija.r@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>  &nbsp;
@@ -33,7 +33,6 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
 <hr/>
 <div align="center">🧰 Toolbox</div>
 <br/>
-
 
 <a href="#">
   <img align="left" width=200  height=178  align="left" src="https://github.com/awartanian/awartanian/raw/main/MERN-pic.png" />
@@ -68,12 +67,7 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
 </div>
 </div>
   
----
 <div align="center">
-<a href="https://github.com/ratko-sim/github-readme-stats">
-  <img width=450 align="center" src="https://github-readme-stats-ratko-sim.vercel.app/api?username=ratko-sim&count_private=true&show_icons=true&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&custom_title=GitHub Stats" />
-</a>
-
 <a href="https://github.com/ratko-sim/github-readme-stats">
   <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=4" />
 </a> 
