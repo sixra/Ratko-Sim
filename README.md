@@ -1,4 +1,4 @@
-<h1>Hey, I'm Ratko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hey, I'm Ratko</h1>
 
 <p>Front-end Developer with a solid foundation in React, Angular, and Next.js. Successfully transitioned from Business Management to pursue a passion for coding.</p>
 
