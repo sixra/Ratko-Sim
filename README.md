@@ -36,6 +36,6 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
   
 <div align="center">
 <a href="https://github.com/sixra/github-readme-stats">
-  <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratko-sim&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=4" />
+  <img card_width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixra&layout=compact&bg_color=66000000&text_color=5D6D7E&title_color=0078FF&border_color=66000000&langs_count=4" />
 </a> 
 </div>
