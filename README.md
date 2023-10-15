@@ -25,7 +25,7 @@ Motivated by my love for web development, I completed a rigorous 1-year Full Sta
 </div>
 <br/>
 <div align="center"> 
-<a href="mailto:simidzija.r@gmail.com" target="_blank">
+<a href="mailto:sixra.rs@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/mail-007aff?style=for-the-badge&logo=icloud&logoColor=white" />
 </a>  &nbsp;
 <a href="https://t.me/ratko_s" target="_blank">
