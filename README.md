@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a 
-  href="mailto:ratko.simidzija@icloud.com" 
+  href="mailto:sixra.rs@gmail.com" 
   target="_blank"
 >
   <img 
