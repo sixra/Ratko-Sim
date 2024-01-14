@@ -1,6 +1,6 @@
 <h1>Hey, I'm Ratko</h1>
 
-<p>Front-end Developer with a solid foundation in React, Angular, and Next.js. Successfully transitioned from Business Management to pursue a passion for coding.</p>
+<p>Front-end Developer with a solid foundation in React, Angular, Svelte and Next.js. Successfully transitioned from Business Management to pursue a passion for coding.</p>
 
 <p>Motivated by my love for web development, I completed a rigorous 1-year Full Stack Web Development course and have gained 2 years of professional experience. Proficient in HTML, CSS and JavaScript, I specialize in creating engaging user experiences through responsive web design. With understanding of backend technologies like Node.js, MongoDB, and Express.js, I build scalable solutions.</p>
 
