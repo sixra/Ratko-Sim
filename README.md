@@ -2,7 +2,7 @@
 
 <p>Front-end Developer with a solid foundation in React, Angular, Svelte and Next.js. Successfully transitioned from Business Management to pursue a passion for coding.</p>
 
-<p>Motivated by my love for web development, I completed a rigorous 1-year Full Stack Web Development course and have gained 2 years of professional experience. Proficient in HTML, CSS and JavaScript, I specialize in creating engaging user experiences through responsive web design. With understanding of backend technologies like Node.js, MongoDB, and Express.js, I build scalable solutions.</p>
+<p>Motivated by my love for web development, I completed Full Stack Web Development course and have gained 2 years of professional experience. Proficient in HTML, CSS and JavaScript, I specialize in creating engaging user experiences through responsive web design. With understanding of backend technologies like Node.js, MongoDB, and Express.js, I build scalable solutions.</p>
 
 <p>I thrive in collaborative environments, leveraging adaptability, analytical skills, and problem-solving abilities to achieve ambitious goals. Actively seeking new opportunities to further develop skills and contribute to impactful projects.</p>
 
