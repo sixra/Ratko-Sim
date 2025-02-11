@@ -2,7 +2,7 @@
 
 I'm a Front-End Developer with over four years of experience. I transitioned from Business Management to follow my passion for coding and haven't looked back since. I specialize in React, Remix, Angular, and Svelte, and I'm proficient in HTML, CSS, and JavaScript. I enjoy creating responsive, user-friendly web designs. Additionally, I have experience with backend technologies like Node.js, Go, and Express.js. Always learning and evolving. 🎯
 
-## 🌐 Connect with me
+## ![Connect](https://img.icons8.com/material-outlined/30/1793d1/link.png)
 
 I'm always excited to meet fellow developers and collaborators. Reach out to me here:
 
@@ -10,7 +10,7 @@ I'm always excited to meet fellow developers and collaborators. Reach out to me 
 [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rs_sixra)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ratko_s)
 
-## 💼 Skills
+## ![Tools](https://img.icons8.com/material-outlined/30/1793d1/toolbox.png)
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
@@ -28,7 +28,7 @@ I'm always excited to meet fellow developers and collaborators. Reach out to me 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-## Github Stats
+## ![GitHub](https://img.icons8.com/material-outlined/30/1793d1/github.png)
 
 | **Metric**      | **Count**           |
 |-----------------|---------------------|
