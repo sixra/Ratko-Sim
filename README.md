@@ -1,6 +1,6 @@
 ## Ahoy! 👋
 
-I'm a Front-End Developer with over four years of experience. I transitioned from Business Management to follow my passion for coding and haven't looked back since. I specialize in React, Remix, Angular, and Svelte, and I'm proficient in HTML, CSS, and JavaScript. I enjoy creating responsive, user-friendly web designs. Additionally, I have experience with backend technologies like Node.js, Go, and Express.js. Always learning and evolving. 🎯
+I'm a Front-End Developer with over three years of experience. I transitioned from Business Management to follow my passion for coding and haven't looked back since. I specialize in React, Remix, Angular, and Svelte, and I'm proficient in HTML, CSS, and JavaScript. I enjoy creating responsive, user-friendly web designs. Additionally, I have experience with backend technologies like Node.js, Go, and Express.js. Always learning and evolving. 🎯
 
 ## ![Connect](https://img.icons8.com/material-outlined/30/1793d1/link.png)
 
