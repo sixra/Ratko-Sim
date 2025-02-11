@@ -2,9 +2,9 @@
 
 I'm a Front-End Developer with over four years of experience. I transitioned from Business Management to follow my passion for coding and haven't looked back since. I specialize in React, Remix, Angular, and Svelte, and I'm proficient in HTML, CSS, and JavaScript. I enjoy creating responsive, user-friendly web designs. Additionally, I have experience with backend technologies like Node.js, Go, and Express.js. Always learning and evolving. 🎯
 
-Let's connect! 🤝
-
 ## 🌐 Connect with me
+
+I'm always excited to meet fellow developers and collaborators. Reach out to me here:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ratkosimidzija)
 [![X](https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rs_sixra)
@@ -27,8 +27,6 @@ Let's connect! 🤝
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Github Stats
 
