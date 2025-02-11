@@ -30,13 +30,4 @@ I'm always excited to meet fellow developers and collaborators. Reach out to me 
 
 ## ![GitHub](https://img.icons8.com/material-outlined/30/1793d1/github.png)
 
-| **Metric**      | **Count**           |
-|-----------------|---------------------|
-| 🌟 **Commits**  | `433` (Total Commits)|
-| 🔗 **PRs Merged** | `133` (Merged PRs)  |
-
-_Last updated: 2025-02-11_
-
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=sixra&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
-
-![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sixra&theme=onedark)
